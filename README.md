@@ -1,4 +1,3 @@
-# README for my-OSSLs
 
 ## Overview
 
