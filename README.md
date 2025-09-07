@@ -1,6 +1,6 @@
 # my-OSSLs
 These licenses are designed to protect software created by Scratch and TurboWarp developers moving to off-platform development environments, ensuring free sharing and remixing with community protections.
-**DTO-OSSL: what’s different?**
+# **DTO-OSSL: what’s different?**
 DTO-OSSL is compliant with OSI and OSD, so it can legally be called Open-Source, unlike the DT-OSSL. Here’s what’s removed/modified:
 Free redistribution (including selling)
 Derived works
